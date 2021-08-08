@@ -11,13 +11,6 @@ Bajo el directorio `webinar` encontrarán copias de cuadernos auxiliares que son
 https://wandb.ai/wandb_fc/events/reports/W-B-Study-Group-Lectures-fast-ai-w-Hugging-Face--Vmlldzo4NDUzNDU?galleryTag=events
 
 
-| Cuadernos | Descripción |
-|:---  |:---  |
-| `10_iula_build_dataset.ipynb`	| Convertir corpus en tabla.  	|
-| `20_iula_blurr_highapi.ipynb`  	| Uso de API de alto nivel de Blurr  	|
-| `21_iula_blurr_highapi_esp.ipynb`  	| API de alto nivel de Blurr con modelo pre-entrenado en español 	|
-| `30_iula_blurr_blearner.ipynb`  	| API de bajo nivel BLearner  	|
-| `40_iula_blurr_fastai_learner.ipynb`  	| API de Fastai Learner  	|
 
 ### English
 
@@ -30,10 +23,14 @@ Under the directory webinar you will find extra copies of notebooks that belong 
 https://wandb.ai/wandb_fc/events/reports/W-B-Study-Group-Lectures-fast-ai-w-Hugging-Face--Vmlldzo4NDUzNDU?galleryTag=events
 
 
-| Notebooks | Description |
+### Contenido
+
+
+| Cuadernos | Descripción |
 |:---  |:---  |
-| `10_iula_build_dataset.ipynb`	| Converts the corpus into a table.  	|
-| `20_iula_blurr_highapi.ipynb`  	| Show Blurr's High Level API  	|
-| `21_iula_blurr_highapi_esp.ipynb`  	| Blurr's High Level API with a pretrained Spanish language model 	|
-| `30_iula_blurr_blearner.ipynb`  	| Low level API BLearner  	|
-| `40_iula_blurr_fastai_learner.ipynb`  	| Shows the use of the Fastai's Learner  	|
+| `10_iula_build_dataset.ipynb`	| Convertir corpus en tabla.</br> _Converts the corpus into a table._ 	|
+| `11_iula_build_dataset.ipynb`	| Validación sin goteo del entrenamiento.</br> _Avoid leaking into the validation set._ 	|
+| `20_iula_blurr_highapi.ipynb`  	| Uso de API de alto nivel de Blurr</br> _Show Blurr's High Level API_ |
+| `21_iula_blurr_highapi_esp.ipynb`  	| API de alto nivel de Blurr con modelo pre-entrenado en español</br> _Blurr's High Level API with a pretrained Spanish language model_	|
+| `30_iula_blurr_blearner.ipynb`  	| API de bajo nivel BLearner</br> _Low level API BLearner_ 	|
+| `40_iula_blurr_fastai_learner.ipynb`  	| API de Fastai Learner</br> _Shows the use of the Fastai's Learner_	|
