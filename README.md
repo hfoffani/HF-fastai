@@ -28,9 +28,9 @@ https://wandb.ai/wandb_fc/events/reports/W-B-Study-Group-Lectures-fast-ai-w-Hugg
 
 | Cuadernos | Descripción |
 |:---  |:---  |
-| [`10_iula_build_dataset.ipynb`](10_iula_build_dataset.ipynb)	| Convertir corpus en tabla.</br> _Converts the corpus into a table._ 	|
-| [`11_iula_build_dataset.ipynb`](11_iula_build_dataset.ipynb)	| Validación sin goteo del entrenamiento.</br> _Avoid leaking into the validation set._ 	|
-| [`20_iula_blurr_highapi.ipynb`](20_iula_blurr_highapi.ipynb)  	| Uso de API de alto nivel de Blurr</br> _Show Blurr's High Level API_ |
-| [`21_iula_blurr_highapi_esp.ipynb`](21_iula_blurr_highapi_esp.ipynb)  	| API de alto nivel de Blurr con modelo pre-entrenado en español</br> _Blurr's High Level API with a pretrained Spanish language model_	|
-| [`30_iula_blurr_blearner.ipynb`](30_iula_blurr_blearner.ipynb)  	| API de bajo nivel BLearner</br> _Low level API BLearner_ 	|
-| [`40_iula_blurr_fastai_learner.ipynb`](40_iula_blurr_fastai_learner.ipynb)  	| API de Fastai Learner</br> _Shows the use of the Fastai's Learner_	|
+| [`nb10_iula_build_dataset.ipynb`](nb10_iula_build_dataset.ipynb)	| Convertir corpus en tabla.</br> _Converts the corpus into a table._ 	|
+| [`nb11_iula_build_dataset.ipynb`](nb11_iula_build_dataset.ipynb)	| Validación sin goteo del entrenamiento.</br> _Avoid leaking into the validation set._ 	|
+| [`nb20_iula_blurr_highapi.ipynb`](nb20_iula_blurr_highapi.ipynb)  	| Uso de API de alto nivel de Blurr</br> _Show Blurr's High Level API_ |
+| [`nb21_iula_blurr_highapi_esp.ipynb`](nb21_iula_blurr_highapi_esp.ipynb)  	| API de alto nivel de Blurr con modelo pre-entrenado en español</br> _Blurr's High Level API with a pretrained Spanish language model_	|
+| [`nb30_iula_blurr_blearner.ipynb`](nb30_iula_blurr_blearner.ipynb)  	| API de bajo nivel BLearner</br> _Low level API BLearner_ 	|
+| [`nb40_iula_blurr_fastai_learner.ipynb`](nb40_iula_blurr_fastai_learner.ipynb)  	| API de Fastai Learner</br> _Shows the use of the Fastai's Learner_	|
